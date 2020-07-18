@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: c57b69a8adc3fcb428af82409e3da287
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5715676350935729358
+    second: virus animate_0
+  - first:
+      213: -3231378371757364285
+    second: virus animate_1
+  - first:
+      213: 5545344784509676705
+    second: virus animate_2
+  - first:
+      213: 4556475367314381199
+    second: virus animate_3
+  - first:
+      213: 8397032150982645230
+    second: virus animate_4
+  - first:
+      213: -4663114603468282610
+    second: virus animate_5
+  - first:
+      213: 2216491957410915595
+    second: virus animate_6
+  - first:
+      213: 5292450110222853196
+    second: virus animate_7
+  - first:
+      213: 6571368921399788945
+    second: virus animate_8
+  - first:
+      213: -4011378599547017688
+    second: virus animate_9
+  - first:
+      213: 6260501682332736051
+    second: virus animate_10
+  - first:
+      213: -8938509176362779385
+    second: virus animate_11
+  - first:
+      213: 6764883499671560588
+    second: virus animate_12
+  - first:
+      213: -2873322971167963888
+    second: virus animate_13
+  - first:
+      213: -1570692276957270787
+    second: virus animate_14
+  - first:
+      213: 5634500169103553542
+    second: virus animate_15
+  - first:
+      213: 4930034447806168274
+    second: virus animate_16
+  - first:
+      213: -1390082032385474650
+    second: virus animate_17
+  - first:
+      213: -8422341464403077762
+    second: virus animate_0
+  - first:
+      213: 4032368228343163572
+    second: virus animate_1
+  - first:
+      213: -577950247672636422
+    second: virus animate_2
+  - first:
+      213: -7816616781162511616
+    second: virus animate_3
+  - first:
+      213: 8594548887481062588
+    second: virus animate_4
+  - first:
+      213: -5203089930834576078
+    second: virus animate_5
+  - first:
+      213: 8262256435844222858
+    second: virus animate_6
+  - first:
+      213: -8554551254833669780
+    second: virus animate_7
+  - first:
+      213: 4357136385593580492
+    second: virus animate_8
+  - first:
+      213: 9207922805605789285
+    second: virus animate_9
+  - first:
+      213: -2850362231604933852
+    second: virus animate_10
+  - first:
+      213: -2038238494779738369
+    second: virus animate_11
+  - first:
+      213: -1738399952429338522
+    second: virus animate_12
+  - first:
+      213: -2114408611901077358
+    second: virus animate_13
+  - first:
+      213: -7674872973410348139
+    second: virus animate_14
+  - first:
+      213: 8497827108811853362
+    second: virus animate_15
+  - first:
+      213: -5880602404020286349
+    second: virus animate_16
+  - first:
+      213: 8353984228196936481
+    second: virus animate_17
+  - first:
+      213: 5948945405536419495
+    second: virus animate_18
+  - first:
+      213: 1728209040256848048
+    second: virus animate_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: virus animate_0
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1132
+        width: 884
+        height: 968
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e751635cf05dd1b80800000000000000
+      internalID: -8422341464403077762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_1
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1571
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba27fd0a89d5f730800000000000000
+      internalID: 4032368228343163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1204
+        width: 742
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9f95df45baf7f0800000000000000
+      internalID: -577950247672636422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_3
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 0
+        width: 2032
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038375a37cc58390800000000000000
+      internalID: -7816616781162511616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_4
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 0
+        width: 2071
+        height: 2100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb499036da8f54770800000000000000
+      internalID: 8594548887481062588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1213
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d713a6649eac7b0800000000000000
+      internalID: -5203089930834576078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_6
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1213
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0eadf37e69a270800000000000000
+      internalID: 8262256435844222858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_7
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1008
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6954ca25f0284980800000000000000
+      internalID: -8554551254833669780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_8
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 908
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1c352578a77c30800000000000000
+      internalID: 4357136385593580492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_9
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 774
+        width: 257
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee95b810d19cf70800000000000000
+      internalID: 9207922805605789285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_10
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 622
+        width: 173
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b8ff7f6aa7178d0800000000000000
+      internalID: -2850362231604933852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 520
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6702753e8b6b3e0800000000000000
+      internalID: -2038238494779738369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_12
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 34
+        width: 142
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b4e52476ffd7e0800000000000000
+      internalID: -1738399952429338522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_13
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 45
+        width: 210
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980c91f19c18a2e0800000000000000
+      internalID: -2114408611901077358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 45
+        width: 213
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59351a3a1bf5d7590800000000000000
+      internalID: -7674872973410348139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_15
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 414
+        width: 193
+        height: 137
+      alignment: 9
+      pivot: {x: 0.14544962, y: 0.922631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e4a676bb85ee570800000000000000
+      internalID: 8497827108811853362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_16
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 230
+        width: 105
+        height: 81
+      alignment: 9
+      pivot: {x: 0.9010428, y: 0.95488596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c00133547e36ea0800000000000000
+      internalID: -5880602404020286349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_17
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be4ece4605fe370800000000000000
+      internalID: 8353984228196936481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: virus animate_18
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 25
+        width: 109
+        height: 137
+      alignment: 9
+      pivot: {x: 0.9346162, y: 0.96105313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0d02637f4dbf710800000000000000
+      internalID: 1728209040256848048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
